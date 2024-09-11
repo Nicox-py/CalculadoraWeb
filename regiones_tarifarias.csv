@@ -1,0 +1,503 @@
+﻿Año;GID_2;Provincia;Municipio;Regiones Tarifarias;Distribuidora;Zona;Zona Tarifaria
+2024;ARG.1.1_1;Buenos Aires;Adolfo Alsina;4;CGP;F;Zona Fría
+2024;ARG.1.2_1;Buenos Aires;Adolfo Gonzales Chaves;4;CGP;F;Zona Fría
+2024;ARG.1.3_1;Buenos Aires;Alberti;4;CGP;F;Zona Fría
+2024;ARG.1.4_1;Buenos Aires;Almirante Brown;2;Metrogas;R;Otra
+2024;ARG.1.5_1;Buenos Aires;Ameghino;4;CGP;F;Zona Fría
+2024;ARG.1.6_1;Buenos Aires;Arrecifes;4;CGP;F;Zona Fría
+2024;ARG.1.7_1;Buenos Aires;Avellaneda;2;Metrogas;R;Otra
+2024;ARG.1.8_1;Buenos Aires;Ayacucho;4;CGP;F;Zona Fría
+2024;ARG.1.9_1;Buenos Aires;Azul;4;CGP;F;Zona Fría
+2024;ARG.1.10_1;Buenos Aires;Bahía Blanca;5;CGP;F;Zona Fría
+2024;ARG.1.11_1;Buenos Aires;Balcarce;4;CGP;F;Zona Fría
+2024;ARG.1.12_1;Buenos Aires;Baradero;27;Litoral;F;Zona Fría
+2024;ARG.1.13_1;Buenos Aires;Benito Juárez;4;CGP;F;Zona Fría
+2024;ARG.1.14_1;Buenos Aires;Berazategui;2;Metrogas;R;Otra
+2024;ARG.1.15_1;Buenos Aires;Berisso;4;CGP;F;Zona Fría
+2024;ARG.1.16_1;Buenos Aires;Bolívar;4;CGP;F;Zona Fría
+2024;ARG.1.17_1;Buenos Aires;Bragado;4;CGP;F;Zona Fría
+2024;ARG.1.18_1;Buenos Aires;Brandsen;4;CGP;F;Zona Fría
+2024;ARG.1.19_1;Buenos Aires;Campana;3;Naturgy BAN;R;Otra
+2024;ARG.1.20_1;Buenos Aires;Cañuelas;4;CGP;F;Zona Fría
+2024;ARG.1.21_1;Buenos Aires;Capitán Sarmiento;3;Naturgy BAN;R;Otra
+2024;ARG.1.22_1;Buenos Aires;Carlos Casares;4;CGP;F;Zona Fría
+2024;ARG.1.23_1;Buenos Aires;Carlos Tejedor;4;CGP;F;Zona Fría
+2024;ARG.1.24_1;Buenos Aires;Carmen de Areco;3;Naturgy BAN;R;Otra
+2024;ARG.1.25_1;Buenos Aires;Castelli;4;CGP;F;Zona Fría
+2024;ARG.1.26_1;Buenos Aires;Chacabuco;4;CGP;F;Zona Fría
+2024;ARG.1.27_1;Buenos Aires;Chascomús;4;CGP;F;Zona Fría
+2024;ARG.1.28_1;Buenos Aires;Chivilcoy;4;CGP;F;Zona Fría
+2024;ARG.1.29_1;Buenos Aires;Colón;27;Litoral;F;Zona Fría
+2024;ARG.1.30_1;Buenos Aires;Coronel de Marina Leonardo Rosal;4;CGP;F;Zona Fría
+2024;ARG.1.31_1;Buenos Aires;Coronel Dorrego;4;CGP;F;Zona Fría
+2024;ARG.1.32_1;Buenos Aires;Coronel Pringles;4;CGP;F;Zona Fría
+2024;ARG.1.33_1;Buenos Aires;Coronel Suárez;5;CGP;F;Zona Fría
+2024;ARG.1.34_1;Buenos Aires;Daireaux;4;CGP;F;Zona Fría
+2024;ARG.1.35_1;Buenos Aires;Dolores;4;CGP;F;Zona Fría
+2024;ARG.1.36_1;Buenos Aires;Ensenada;4;CGP;F;Zona Fría
+2024;ARG.1.37_1;Buenos Aires;Escobar;3;Naturgy BAN;R;Otra
+2024;ARG.1.38_1;Buenos Aires;Esteban Echeverría;2;Metrogas;R;Otra
+2024;ARG.1.39_1;Buenos Aires;Exaltación de la Cruz;3;Naturgy BAN;R;Otra
+2024;ARG.1.40_1;Buenos Aires;Florencio Varela;2;Metrogas;R;Otra
+2024;ARG.1.41_1;Buenos Aires;General Alvarado;4;CGP;F;Zona Fría
+2024;ARG.1.42_1;Buenos Aires;General Alvear;4;CGP;F;Zona Fría
+2024;ARG.1.43_1;Buenos Aires;General Arenales;4;CGP;F;Zona Fría
+2024;ARG.1.44_1;Buenos Aires;General Belgrano;4;CGP;F;Zona Fría
+2024;ARG.1.45_1;Buenos Aires;General Guido;4;CGP;F;Zona Fría
+2024;ARG.1.46_1;Buenos Aires;General Juan Madariaga;4;CGP;F;Zona Fría
+2024;ARG.1.47_1;Buenos Aires;General La Madrid;4;CGP;F;Zona Fría
+2024;ARG.1.48_1;Buenos Aires;General Las Heras;3;Naturgy BAN;R;Otra
+2024;ARG.1.49_1;Buenos Aires;General Lavalle;4;CGP;F;Zona Fría
+2024;ARG.1.50_1;Buenos Aires;General Paz;4;CGP;F;Zona Fría
+2024;ARG.1.51_1;Buenos Aires;General Pinto;4;CGP;F;Zona Fría
+2024;ARG.1.52_1;Buenos Aires;General Pueyrredón;4;CGP;F;Zona Fría
+2024;ARG.1.53_1;Buenos Aires;General Rodríguez;3;Naturgy BAN;R;Otra
+2024;ARG.1.54_1;Buenos Aires;General San Martín;3;Naturgy BAN;R;Otra
+2024;ARG.1.55_1;Buenos Aires;General Sarmiento;4;CGP;F;Zona Fría
+2024;ARG.1.56_1;Buenos Aires;General Viamonte;4;CGP;F;Zona Fría
+2024;ARG.1.57_1;Buenos Aires;General Villegas;4;CGP;F;Zona Fría
+2024;ARG.1.58_1;Buenos Aires;Guaminí;4;CGP;F;Zona Fría
+2024;ARG.1.59_1;Buenos Aires;Hipólito Yrigoyen;4;CGP;F;Zona Fría
+2024;ARG.1.60_1;Buenos Aires;Junín;4;CGP;F;Zona Fría
+2024;ARG.1.61_1;Buenos Aires;La Costa;4;CGP;F;Zona Fría
+2024;ARG.1.62_1;Buenos Aires;La Matanza;4;CGP;F;Zona Fría
+2024;ARG.1.63_1;Buenos Aires;La Plata;4;CGP;F;Zona Fría
+2024;ARG.1.64_1;Buenos Aires;Lanús;2;Metrogas;R;Otra
+2024;ARG.1.65_1;Buenos Aires;Laprida;4;CGP;F;Zona Fría
+2024;ARG.1.66_1;Buenos Aires;Las Flores;4;CGP;F;Zona Fría
+2024;ARG.1.67_1;Buenos Aires;Leandro N. Alem;4;CGP;F;Zona Fría
+2024;ARG.1.68_1;Buenos Aires;Lincoln;4;CGP;F;Zona Fría
+2024;ARG.1.69_1;Buenos Aires;Lobería;4;CGP;F;Zona Fría
+2024;ARG.1.70_1;Buenos Aires;Lobos;4;CGP;F;Zona Fría
+2024;ARG.1.71_1;Buenos Aires;Lomas de Zamora;2;Metrogas;R;Otra
+2024;ARG.1.72_1;Buenos Aires;Luján;4;CGP;F;Zona Fría
+2024;ARG.1.73_1;Buenos Aires;Magdalena;4;CGP;F;Zona Fría
+2024;ARG.1.74_1;Buenos Aires;Maipú;4;CGP;F;Zona Fría
+2024;ARG.1.75_1;Buenos Aires;Mar Chiquita;4;CGP;F;Zona Fría
+2024;ARG.1.76_1;Buenos Aires;Marcos Paz;4;CGP;F;Zona Fría
+2024;ARG.1.77_1;Buenos Aires;Mercedes;4;CGP;F;Zona Fría
+2024;ARG.1.78_1;Buenos Aires;Merlo;4;CGP;F;Zona Fría
+2024;ARG.1.79_1;Buenos Aires;Monte;4;CGP;F;Zona Fría
+2024;ARG.1.80_1;Buenos Aires;Monte Hermoso;4;CGP;F;Zona Fría
+2024;ARG.1.81_1;Buenos Aires;Moreno;4;CGP;F;Zona Fría
+2024;ARG.1.82_1;Buenos Aires;Morón;4;CGP;F;Zona Fría
+2024;ARG.1.83_1;Buenos Aires;Navarro;4;CGP;F;Zona Fría
+2024;ARG.1.84_1;Buenos Aires;Necochea;4;CGP;F;Zona Fría
+2024;ARG.1.85_1;Buenos Aires;Nueve de Julio;4;CGP;F;Zona Fría
+2024;ARG.1.86_1;Buenos Aires;Olavarría;4;CGP;F;Zona Fría
+2024;ARG.1.87_1;Buenos Aires;Patagones;12;CGS;P;Zona Patagónica
+2024;ARG.1.88_1;Buenos Aires;Pehuajó;4;CGP;F;Zona Fría
+2024;ARG.1.89_1;Buenos Aires;Pellegrini;4;CGP;F;Zona Fría
+2024;ARG.1.90_1;Buenos Aires;Pergamino;27;Litoral;F;Zona Fría
+2024;ARG.1.91_1;Buenos Aires;Pila;4;CGP;F;Zona Fría
+2024;ARG.1.92_1;Buenos Aires;Pilar;4;CGP;F;Zona Fría
+2024;ARG.1.93_1;Buenos Aires;Pinamar;4;CGP;F;Zona Fría
+2024;ARG.1.94_1;Buenos Aires;Puán;4;CGP;F;Zona Fría
+2024;ARG.1.95_1;Buenos Aires;Quilmes;2;Metrogas;R;Otra
+2024;ARG.1.96_1;Buenos Aires;Ramallo;27;Litoral;F;Zona Fría
+2024;ARG.1.97_1;Buenos Aires;Rauch;4;CGP;F;Zona Fría
+2024;ARG.1.98_1;Buenos Aires;Rivadavia;4;CGP;F;Zona Fría
+2024;ARG.1.99_1;Buenos Aires;Rojas;4;CGP;F;Zona Fría
+2024;ARG.1.100_1;Buenos Aires;Roque Pérez;4;CGP;F;Zona Fría
+2024;ARG.1.101_1;Buenos Aires;Saavedra;4;CGP;F;Zona Fría
+2024;ARG.1.102_1;Buenos Aires;Saladillo;4;CGP;F;Zona Fría
+2024;ARG.1.103_1;Buenos Aires;Salliqueló;4;CGP;F;Zona Fría
+2024;ARG.1.104_1;Buenos Aires;Salto;4;CGP;F;Zona Fría
+2024;ARG.1.105_1;Buenos Aires;San Andrés de Giles;4;CGP;F;Zona Fría
+2024;ARG.1.106_1;Buenos Aires;San Antonio de Areco;4;CGP;F;Zona Fría
+2024;ARG.1.107_1;Buenos Aires;San Cayetano;4;CGP;F;Zona Fría
+2024;ARG.1.108_1;Buenos Aires;San Fernando (1);4;CGP;F;Zona Fría
+2024;ARG.1.109_1;Buenos Aires;San Fernando (2);4;CGP;F;Zona Fría
+2024;ARG.1.110_1;Buenos Aires;San Isidro;4;CGP;F;Zona Fría
+2024;ARG.1.111_1;Buenos Aires;San Nicolás;27;Litoral;F;Zona Fría
+2024;ARG.1.112_1;Buenos Aires;San Pedro;27;Litoral;F;Zona Fría
+2024;ARG.1.113_1;Buenos Aires;San Vicente;2;Metrogas;R;Otra
+2024;ARG.1.114_1;Buenos Aires;Suipacha;4;CGP;F;Zona Fría
+2024;ARG.1.115_1;Buenos Aires;Tandil;4;CGP;F;Zona Fría
+2024;ARG.1.116_1;Buenos Aires;Tapalqué;4;CGP;F;Zona Fría
+2024;ARG.1.117_1;Buenos Aires;Tigre;4;CGP;F;Zona Fría
+2024;ARG.1.118_1;Buenos Aires;Tordillo;4;CGP;F;Zona Fría
+2024;ARG.1.119_1;Buenos Aires;Tornquist;4;CGP;F;Zona Fría
+2024;ARG.1.120_1;Buenos Aires;Trenque Lauquen;4;CGP;F;Zona Fría
+2024;ARG.1.121_1;Buenos Aires;Tres Arroyos;4;CGP;F;Zona Fría
+2024;ARG.1.122_1;Buenos Aires;Tres de Febrero;4;CGP;F;Zona Fría
+2024;ARG.1.123_1;Buenos Aires;Tres Lomas;4;CGP;F;Zona Fría
+2024;ARG.1.124_1;Buenos Aires;Veinticinco de Mayo;4;CGP;F;Zona Fría
+2024;ARG.1.125_1;Buenos Aires;Vicente López;4;CGP;F;Zona Fría
+2024;ARG.1.126_1;Buenos Aires;Villa Gesell;4;CGP;F;Zona Fría
+2024;ARG.1.127_1;Buenos Aires;Villarino;5;CGP;F;Zona Fría
+2024;ARG.1.128_1;Buenos Aires;Zárate;4;CGP;F;Zona Fría
+2024;ARG.2.1_1;Catamarca;Ambato;23;DGCE;R;Otra
+2024;ARG.2.2_1;Catamarca;Ancasti;23;DGCE;R;Otra
+2024;ARG.2.3_1;Catamarca;Andalgalá;23;DGCE;R;Otra
+2024;ARG.2.4_1;Catamarca;Antofagasta de la Sierra;23;DGCE;R;Otra
+2024;ARG.2.5_1;Catamarca;Belén;23;DGCE;R;Otra
+2024;ARG.2.6_1;Catamarca;Capayán;23;DGCE;R;Otra
+2024;ARG.2.7_1;Catamarca;Capital;23;DGCE;R;Otra
+2024;ARG.2.8_1;Catamarca;El Alto;23;DGCE;R;Otra
+2024;ARG.2.9_1;Catamarca;Fray Mamerto Esquiú;23;DGCE;R;Otra
+2024;ARG.2.10_1;Catamarca;La Paz;23;DGCE;R;Otra
+2024;ARG.2.11_1;Catamarca;Paclín;23;DGCE;R;Otra
+2024;ARG.2.12_1;Catamarca;Pomán;23;DGCE;R;Otra
+2024;ARG.2.13_1;Catamarca;Santa María;23;DGCE;R;Otra
+2024;ARG.2.14_1;Catamarca;Santa Rosa;23;DGCE;R;Otra
+2024;ARG.2.15_1;Catamarca;Tinogasta;23;DGCE;R;Otra
+2024;ARG.2.16_1;Catamarca;Valle Viejo;23;DGCE;R;Otra
+2024;ARG.3.1_1;Chaco;Almirante Brown;99;;Nan;Sin abastecimiento
+2024;ARG.3.2_1;Chaco;Bermejo;99;;Nan;Sin abastecimiento
+2024;ARG.3.3_1;Chaco;Chacabuco;99;;Nan;Sin abastecimiento
+2024;ARG.3.4_1;Chaco;Comandante Fernández;99;;Nan;Sin abastecimiento
+2024;ARG.3.5_1;Chaco;Doce de Octubre;99;;Nan;Sin abastecimiento
+2024;ARG.3.6_1;Chaco;Fray Justo Santa María de Oro;99;;Nan;Sin abastecimiento
+2024;ARG.3.7_1;Chaco;General Belgrano;99;;Nan;Sin abastecimiento
+2024;ARG.3.8_1;Chaco;General Donovan;99;;Nan;Sin abastecimiento
+2024;ARG.3.9_1;Chaco;General Güemes;99;;Nan;Sin abastecimiento
+2024;ARG.3.10_1;Chaco;Independencia;99;;Nan;Sin abastecimiento
+2024;ARG.3.11_1;Chaco;Libertad;99;;Nan;Sin abastecimiento
+2024;ARG.3.12_1;Chaco;Libertador General San Martín;99;;Nan;Sin abastecimiento
+2024;ARG.3.13_1;Chaco;Maipú;99;;Nan;Sin abastecimiento
+2024;ARG.3.14_1;Chaco;Mayor Luis J. Fontana;99;;Nan;Sin abastecimiento
+2024;ARG.3.15_1;Chaco;Nueve de Julio;99;;Nan;Sin abastecimiento
+2024;ARG.3.16_1;Chaco;O'Higgins;99;;Nan;Sin abastecimiento
+2024;ARG.3.17_1;Chaco;Presidencia de la Plaza;99;;Nan;Sin abastecimiento
+2024;ARG.3.18_1;Chaco;Primero de Mayo;99;;Nan;Sin abastecimiento
+2024;ARG.3.19_1;Chaco;Quitilipi;99;;Nan;Sin abastecimiento
+2024;ARG.3.20_1;Chaco;San Fernando;99;;Nan;Sin abastecimiento
+2024;ARG.3.21_1;Chaco;San Lorenzo;99;;Nan;Sin abastecimiento
+2024;ARG.3.22_1;Chaco;Sargento Cabral;99;;Nan;Sin abastecimiento
+2024;ARG.3.23_1;Chaco;Tapenagá;99;;Nan;Sin abastecimiento
+2024;ARG.3.24_1;Chaco;Veinticinco de Mayo;99;;Nan;Sin abastecimiento
+2024;ARG.4.1_1;Chubut;Biedma;13;CGS;P;Zona Patagónica
+2024;ARG.4.2_1;Chubut;Cushamen;11;CGS;P;Zona Patagónica
+2024;ARG.4.3_1;Chubut;Escalante;14;CGS;P;Zona Patagónica
+2024;ARG.4.4_1;Chubut;Florentino Ameghino;13;CGS;P;Zona Patagónica
+2024;ARG.4.5_1;Chubut;Futaleufú;11;CGS;P;Zona Patagónica
+2024;ARG.4.6_1;Chubut;Gaiman;13;CGS;P;Zona Patagónica
+2024;ARG.4.7_1;Chubut;Gastre;11;CGS;P;Zona Patagónica
+2024;ARG.4.8_1;Chubut;Languiñeo;11;CGS;P;Zona Patagónica
+2024;ARG.4.9_1;Chubut;Mártires;13;CGS;P;Zona Patagónica
+2024;ARG.4.10_1;Chubut;Paso de Indios;11;CGS;P;Zona Patagónica
+2024;ARG.4.11_1;Chubut;Rawson;13;CGS;P;Zona Patagónica
+2024;ARG.4.12_1;Chubut;Rió Senguer;11;CGS;P;Zona Patagónica
+2024;ARG.4.13_1;Chubut;Sarmiento;14;CGS;P;Zona Patagónica
+2024;ARG.4.14_1;Chubut;Tehuelches;11;CGS;P;Zona Patagónica
+2024;ARG.4.15_1;Chubut;Telsen;13;CGS;P;Zona Patagónica
+2024;ARG.5.1_1;Ciudad de Buenos Aires;Distrito Federal;1;Metrogas;R;Otra
+2024;ARG.6.1_1;Córdoba;Calamuchita;24;DGCE;F;Zona Fría
+2024;ARG.6.2_1;Córdoba;Capital;24;DGCE;F;Zona Fría
+2024;ARG.6.3_1;Córdoba;Colón;23;DGCE;R;Otra
+2024;ARG.6.4_1;Córdoba;Cruz del Eje;23;DGCE;R;Otra
+2024;ARG.6.5_1;Córdoba;General Roca;24;DGCE;F;Zona Fría
+2024;ARG.6.6_1;Córdoba;General San Martín;24;DGCE;F;Zona Fría
+2024;ARG.6.7_1;Córdoba;Ischilín;23;DGCE;R;Otra
+2024;ARG.6.8_1;Córdoba;Juárez Celman;24;DGCE;F;Zona Fría
+2024;ARG.6.9_1;Córdoba;Marcos Juárez;24;DGCE;F;Zona Fría
+2024;ARG.6.10_1;Córdoba;Minas;23;DGCE;R;Otra
+2024;ARG.6.11_1;Córdoba;Pocho;23;DGCE;R;Otra
+2024;ARG.6.12_1;Córdoba;Presidente Roque Sáenz Peña;24;DGCE;F;Zona Fría
+2024;ARG.6.13_1;Córdoba;Punilla;23;DGCE;R;Otra
+2024;ARG.6.14_1;Córdoba;Rió Cuarto;24;DGCE;F;Zona Fría
+2024;ARG.6.15_1;Córdoba;Rió Primero;23;DGCE;R;Otra
+2024;ARG.6.16_1;Córdoba;Rió Seco;23;DGCE;R;Otra
+2024;ARG.6.17_1;Córdoba;Rió Segundo;24;DGCE;F;Zona Fría
+2024;ARG.6.18_1;Córdoba;San Alberto;23;DGCE;R;Otra
+2024;ARG.6.19_1;Córdoba;San Javier;24;DGCE;F;Zona Fría
+2024;ARG.6.20_1;Córdoba;San Justo;23;DGCE;R;Otra
+2024;ARG.6.21_1;Córdoba;Santa María;24;DGCE;F;Zona Fría
+2024;ARG.6.22_1;Córdoba;Sobremonte;23;DGCE;R;Otra
+2024;ARG.6.23_1;Córdoba;Tercero Arriba;24;DGCE;F;Zona Fría
+2024;ARG.6.24_1;Córdoba;Totoral;23;DGCE;R;Otra
+2024;ARG.6.25_1;Córdoba;Tulumba;23;DGCE;R;Otra
+2024;ARG.6.26_1;Córdoba;Unión;24;DGCE;F;Zona Fría
+2024;ARG.7.1_1;Corrientes;Bella Vista;34;Gasnea;R;Otra
+2024;ARG.7.2_1;Corrientes;Berón de Astrada;34;Gasnea;R;Otra
+2024;ARG.7.3_1;Corrientes;Capital;34;Gasnea;R;Otra
+2024;ARG.7.4_1;Corrientes;Concepción;34;Gasnea;R;Otra
+2024;ARG.7.5_1;Corrientes;Curuzú Cuatiá;34;Gasnea;R;Otra
+2024;ARG.7.6_1;Corrientes;Empedrado;34;Gasnea;R;Otra
+2024;ARG.7.7_1;Corrientes;Esquina;34;Gasnea;R;Otra
+2024;ARG.7.8_1;Corrientes;General Alvear;34;Gasnea;R;Otra
+2024;ARG.7.9_1;Corrientes;General Paz;34;Gasnea;R;Otra
+2024;ARG.7.10_1;Corrientes;Goya;34;Gasnea;R;Otra
+2024;ARG.7.11_1;Corrientes;Itatí;34;Gasnea;R;Otra
+2024;ARG.7.12_1;Corrientes;Ituzaingó;34;Gasnea;R;Otra
+2024;ARG.7.13_1;Corrientes;Lavalle;34;Gasnea;R;Otra
+2024;ARG.7.14_1;Corrientes;Mburucuyá;34;Gasnea;R;Otra
+2024;ARG.7.15_1;Corrientes;Mercedes;34;Gasnea;R;Otra
+2024;ARG.7.16_1;Corrientes;Monte Caseros;34;Gasnea;R;Otra
+2024;ARG.7.17_1;Corrientes;Paso de los Libres;34;Gasnea;R;Otra
+2024;ARG.7.18_1;Corrientes;Saladas;34;Gasnea;R;Otra
+2024;ARG.7.19_1;Corrientes;San Cosme;34;Gasnea;R;Otra
+2024;ARG.7.20_1;Corrientes;San Luis del Palmar;34;Gasnea;R;Otra
+2024;ARG.7.21_1;Corrientes;San Martín;34;Gasnea;R;Otra
+2024;ARG.7.22_1;Corrientes;San Miguel;34;Gasnea;R;Otra
+2024;ARG.7.23_1;Corrientes;San Roque;34;Gasnea;R;Otra
+2024;ARG.7.24_1;Corrientes;Santo Tomé;34;Gasnea;R;Otra
+2024;ARG.7.25_1;Corrientes;Sauce;34;Gasnea;R;Otra
+2024;ARG.8.1_1;Entre Ríos;Colón;32;Gasnea;R;Otra
+2024;ARG.8.2_1;Entre Ríos;Concordia;32;Gasnea;R;Otra
+2024;ARG.8.3_1;Entre Ríos;Diamante;32;Gasnea;R;Otra
+2024;ARG.8.4_1;Entre Ríos;Federación;32;Gasnea;R;Otra
+2024;ARG.8.5_1;Entre Ríos;Federal;32;Gasnea;R;Otra
+2024;ARG.8.6_1;Entre Ríos;Feliciano;32;Gasnea;R;Otra
+2024;ARG.8.7_1;Entre Ríos;Gualeguay;32;Gasnea;R;Otra
+2024;ARG.8.8_1;Entre Ríos;Gualeguaychú;32;Gasnea;R;Otra
+2024;ARG.8.10_1;Entre Ríos;Islas del Ibicuy;32;Gasnea;R;Otra
+2024;ARG.8.11_1;Entre Ríos;La Paz;32;Gasnea;R;Otra
+2024;ARG.8.12_1;Entre Ríos;Nogoyá;32;Gasnea;R;Otra
+2024;ARG.8.13_1;Entre Ríos;Paraná;33;Gasnea;R;Otra
+2024;ARG.8.14_1;Entre Ríos;Tala;32;Gasnea;R;Otra
+2024;ARG.8.15_1;Entre Ríos;Uruguay;32;Gasnea;R;Otra
+2024;ARG.8.16_1;Entre Ríos;Victoria;32;Gasnea;R;Otra
+2024;ARG.8.17_1;Entre Ríos;Villaguay;32;Gasnea;R;Otra
+2024;ARG.9.1_1;Formosa;Bermejo;99;;Nan;Sin abastecimiento
+2024;ARG.9.2_1;Formosa;Formosa;99;;Nan;Sin abastecimiento
+2024;ARG.9.3_1;Formosa;Laishi;99;;Nan;Sin abastecimiento
+2024;ARG.9.4_1;Formosa;Matacos;99;;Nan;Sin abastecimiento
+2024;ARG.9.5_1;Formosa;Patiño;99;;Nan;Sin abastecimiento
+2024;ARG.9.6_1;Formosa;Pilagás;99;;Nan;Sin abastecimiento
+2024;ARG.9.7_1;Formosa;Pilcomayo;99;;Nan;Sin abastecimiento
+2024;ARG.9.8_1;Formosa;Pirané;99;;Nan;Sin abastecimiento
+2024;ARG.9.9_1;Formosa;Ramón Lista;99;;Nan;Sin abastecimiento
+2024;ARG.10.1_1;Jujuy;Capital;30;Gasnor;R;Otra
+2024;ARG.10.2_1;Jujuy;Cochinoca;28;Gasnor;P;Zona Patagónica
+2024;ARG.10.3_1;Jujuy;El Carmen;30;Gasnor;R;Otra
+2024;ARG.10.4_1;Jujuy;Humahuaca;28;Gasnor;P;Zona Patagónica
+2024;ARG.10.5_1;Jujuy;Ledesma;30;Gasnor;R;Otra
+2024;ARG.10.6_1;Jujuy;Palpalá;30;Gasnor;R;Otra
+2024;ARG.10.7_1;Jujuy;Rinconada;28;Gasnor;P;Zona Patagónica
+2024;ARG.10.8_1;Jujuy;San Antonio;30;Gasnor;R;Otra
+2024;ARG.10.9_1;Jujuy;San Pedro;30;Gasnor;R;Otra
+2024;ARG.10.10_1;Jujuy;Santa Bárbara;30;Gasnor;R;Otra
+2024;ARG.10.11_1;Jujuy;Santa Catalina;28;Gasnor;P;Zona Patagónica
+2024;ARG.10.12_1;Jujuy;Susques;30;Gasnor;R;Otra
+2024;ARG.10.13_1;Jujuy;Tilcara;28;Gasnor;P;Zona Patagónica
+2024;ARG.10.14_1;Jujuy;Tumbaya;28;Gasnor;P;Zona Patagónica
+2024;ARG.10.15_1;Jujuy;Valle Grande;30;Gasnor;R;Otra
+2024;ARG.10.16_1;Jujuy;Yavi;28;Gasnor;P;Zona Patagónica
+2024;ARG.11.1_1;La Pampa;Atreucó;6;CGP;P;Zona Patagónica
+2024;ARG.11.2_1;La Pampa;Caleu Caleu;7;CGP;P;Zona Patagónica
+2024;ARG.11.3_1;La Pampa;Capital;6;CGP;P;Zona Patagónica
+2024;ARG.11.4_1;La Pampa;Catriló;6;CGP;P;Zona Patagónica
+2024;ARG.11.5_1;La Pampa;Chalileo;7;CGP;P;Zona Patagónica
+2024;ARG.11.6_1;La Pampa;Chapaleufú;6;CGP;P;Zona Patagónica
+2024;ARG.11.7_1;La Pampa;Chical Có;7;CGP;P;Zona Patagónica
+2024;ARG.11.8_1;La Pampa;Conhelo;6;CGP;P;Zona Patagónica
+2024;ARG.11.9_1;La Pampa;Curacó;7;CGP;P;Zona Patagónica
+2024;ARG.11.10_1;La Pampa;Guatraché;6;CGP;P;Zona Patagónica
+2024;ARG.11.11_1;La Pampa;Hucal;7;CGP;P;Zona Patagónica
+2024;ARG.11.12_1;La Pampa;Lihuel Calel;7;CGP;P;Zona Patagónica
+2024;ARG.11.13_1;La Pampa;Limay Mahuida;7;CGP;P;Zona Patagónica
+2024;ARG.11.14_1;La Pampa;Loventué;7;CGP;P;Zona Patagónica
+2024;ARG.11.15_1;La Pampa;Maracó;6;CGP;P;Zona Patagónica
+2024;ARG.11.16_1;La Pampa;Puelén;7;CGP;P;Zona Patagónica
+2024;ARG.11.17_1;La Pampa;Quemú Quemú;6;CGP;P;Zona Patagónica
+2024;ARG.11.18_1;La Pampa;Rancul;6;CGP;P;Zona Patagónica
+2024;ARG.11.19_1;La Pampa;Realicó;6;CGP;P;Zona Patagónica
+2024;ARG.11.20_1;La Pampa;Toay;6;CGP;P;Zona Patagónica
+2024;ARG.11.21_1;La Pampa;Trenel;6;CGP;P;Zona Patagónica
+2024;ARG.11.22_1;La Pampa;Utracán;7;CGP;P;Zona Patagónica
+2024;ARG.12.1_1;La Rioja;Arauco;23;DGCE;R;Otra
+2024;ARG.12.2_1;La Rioja;Capital;23;DGCE;R;Otra
+2024;ARG.12.3_1;La Rioja;Castro Barros;23;DGCE;R;Otra
+2024;ARG.12.4_1;La Rioja;Chamical;23;DGCE;R;Otra
+2024;ARG.12.5_1;La Rioja;Chilecito;23;DGCE;R;Otra
+2024;ARG.12.6_1;La Rioja;Coronel Felipe Varela;24;DGCE;F;Zona Fría
+2024;ARG.12.7_1;La Rioja;Famatina;24;DGCE;F;Zona Fría
+2024;ARG.12.8_1;La Rioja;General Angel Vicente Peñaloza;23;DGCE;R;Otra
+2024;ARG.12.9_1;La Rioja;General Belgrano;23;DGCE;R;Otra
+2024;ARG.12.10_1;La Rioja;General Juan Facundo Quiroga;23;DGCE;R;Otra
+2024;ARG.12.11_1;La Rioja;General Lamadrid;24;DGCE;F;Zona Fría
+2024;ARG.12.12_1;La Rioja;General Ocampo;23;DGCE;R;Otra
+2024;ARG.12.13_1;La Rioja;General San Martín;23;DGCE;R;Otra
+2024;ARG.12.14_1;La Rioja;Independencia;23;DGCE;R;Otra
+2024;ARG.12.15_1;La Rioja;Rosario Vera Peñaloza;23;DGCE;R;Otra
+2024;ARG.12.16_1;La Rioja;San Blas de los Sauces;23;DGCE;R;Otra
+2024;ARG.12.17_1;La Rioja;Sanagasta;23;DGCE;R;Otra
+2024;ARG.12.18_1;La Rioja;Vinchina;24;DGCE;F;Zona Fría
+2024;ARG.13.1_1;Mendoza;Capital;17;DGCU;F;Zona Fría
+2024;ARG.13.2_1;Mendoza;General Alvear;17;DGCU;F;Zona Fría
+2024;ARG.13.3_1;Mendoza;Godoy Cruz;17;DGCU;F;Zona Fría
+2024;ARG.13.4_1;Mendoza;Guaymallén;17;DGCU;F;Zona Fría
+2024;ARG.13.5_1;Mendoza;Junín;17;DGCU;F;Zona Fría
+2024;ARG.13.6_1;Mendoza;La Paz;17;DGCU;F;Zona Fría
+2024;ARG.13.7_1;Mendoza;Las Heras;17;DGCU;F;Zona Fría
+2024;ARG.13.8_1;Mendoza;Lavalle;17;DGCU;F;Zona Fría
+2024;ARG.13.9_1;Mendoza;Luján de Cuyo;17;DGCU;F;Zona Fría
+2024;ARG.13.10_1;Mendoza;Maipú;17;DGCU;F;Zona Fría
+2024;ARG.13.11_1;Mendoza;Malargüe;22;DGCU;P;Zona Patagónica
+2024;ARG.13.12_1;Mendoza;Rivadavia;17;DGCU;F;Zona Fría
+2024;ARG.13.13_1;Mendoza;San Carlos;17;DGCU;F;Zona Fría
+2024;ARG.13.14_1;Mendoza;San Martín;17;DGCU;F;Zona Fría
+2024;ARG.13.15_1;Mendoza;San Rafael;17;DGCU;F;Zona Fría
+2024;ARG.13.16_1;Mendoza;Santa Rosa;17;DGCU;F;Zona Fría
+2024;ARG.13.17_1;Mendoza;Tunuyán;17;DGCU;F;Zona Fría
+2024;ARG.13.18_1;Mendoza;Tupungato;17;DGCU;F;Zona Fría
+2024;ARG.14.1_1;Misiones;Apóstoles;99;;Nan;Sin abastecimiento
+2024;ARG.14.2_1;Misiones;Cainguás;99;;Nan;Sin abastecimiento
+2024;ARG.14.3_1;Misiones;Candelaria;99;;Nan;Sin abastecimiento
+2024;ARG.14.4_1;Misiones;Capital;99;;Nan;Sin abastecimiento
+2024;ARG.14.5_1;Misiones;Concepción;99;;Nan;Sin abastecimiento
+2024;ARG.14.6_1;Misiones;Eldorado;99;;Nan;Sin abastecimiento
+2024;ARG.14.7_1;Misiones;General Manuel Belgrano;99;;Nan;Sin abastecimiento
+2024;ARG.14.8_1;Misiones;Guaraní;99;;Nan;Sin abastecimiento
+2024;ARG.14.9_1;Misiones;Iguazú;99;;Nan;Sin abastecimiento
+2024;ARG.14.10_1;Misiones;Leandro N. Alem;99;;Nan;Sin abastecimiento
+2024;ARG.14.11_1;Misiones;Libertador General San Martín;99;;Nan;Sin abastecimiento
+2024;ARG.14.12_1;Misiones;Montecarlo;99;;Nan;Sin abastecimiento
+2024;ARG.14.13_1;Misiones;Oberá;99;;Nan;Sin abastecimiento
+2024;ARG.14.14_1;Misiones;San Ignacio;99;;Nan;Sin abastecimiento
+2024;ARG.14.15_1;Misiones;San Javier;99;;Nan;Sin abastecimiento
+2024;ARG.14.16_1;Misiones;San Pedro;99;;Nan;Sin abastecimiento
+2024;ARG.14.17_1;Misiones;Veinticinco de Mayo;99;;Nan;Sin abastecimiento
+2024;ARG.15.1_1;Neuquén;Aluminé;8;CGS;P;Zona Patagónica
+2024;ARG.15.2_1;Neuquén;Añelo;8;CGS;P;Zona Patagónica
+2024;ARG.15.3_1;Neuquén;Catán Lil;8;CGS;P;Zona Patagónica
+2024;ARG.15.4_1;Neuquén;Chos Malal;8;CGS;P;Zona Patagónica
+2024;ARG.15.5_1;Neuquén;Collón Curá;10;CGS;P;Zona Patagónica
+2024;ARG.15.6_1;Neuquén;Confluencia;8;CGS;P;Zona Patagónica
+2024;ARG.15.7_1;Neuquén;Huiliches;8;CGS;P;Zona Patagónica
+2024;ARG.15.8_1;Neuquén;Lacar;8;CGS;P;Zona Patagónica
+2024;ARG.15.9_1;Neuquén;Loncopué;8;CGS;P;Zona Patagónica
+2024;ARG.15.10_1;Neuquén;Los Lagos;10;CGS;P;Zona Patagónica
+2024;ARG.15.11_1;Neuquén;Minas;8;CGS;P;Zona Patagónica
+2024;ARG.15.12_1;Neuquén;Ñorquín;8;CGS;P;Zona Patagónica
+2024;ARG.15.13_1;Neuquén;Pehuenches;8;CGS;P;Zona Patagónica
+2024;ARG.15.14_1;Neuquén;Picún Leufú;10;CGS;P;Zona Patagónica
+2024;ARG.15.15_1;Neuquén;Picunches;8;CGS;P;Zona Patagónica
+2024;ARG.15.16_1;Neuquén;Zapala;8;CGS;P;Zona Patagónica
+2024;ARG.16.1_1;Río Negro;Adolfo Alsina;13;CGS;P;Zona Patagónica
+2024;ARG.16.2_1;Río Negro;Avellaneda;9;CGS;P;Zona Patagónica
+2024;ARG.16.3_1;Río Negro;Bariloche;11;CGS;P;Zona Patagónica
+2024;ARG.16.4_1;Río Negro;Conesa;13;CGS;P;Zona Patagónica
+2024;ARG.16.5_1;Río Negro;El Cuy;9;CGS;P;Zona Patagónica
+2024;ARG.16.6_1;Río Negro;General Roca;9;CGS;P;Zona Patagónica
+2024;ARG.16.7_1;Río Negro;Ñorquinco;11;CGS;P;Zona Patagónica
+2024;ARG.16.8_1;Río Negro;Nueve de Julio;9;CGS;P;Zona Patagónica
+2024;ARG.16.9_1;Río Negro;Pichi Mahuida;9;CGS;P;Zona Patagónica
+2024;ARG.16.10_1;Río Negro;Pilcaniyeu;11;CGS;P;Zona Patagónica
+2024;ARG.16.11_1;Río Negro;San Antonio;13;CGS;P;Zona Patagónica
+2024;ARG.16.12_1;Río Negro;Valcheta;13;CGS;P;Zona Patagónica
+2024;ARG.16.13_1;Río Negro;Veinticinco de Mayo;11;CGS;P;Zona Patagónica
+2024;ARG.17.1_1;Salta;Anta;30;Gasnor;R;Otra
+2024;ARG.17.2_1;Salta;Cachi;29;Gasnor;F;Zona Fría
+2024;ARG.17.3_1;Salta;Cafayate;29;Gasnor;F;Zona Fría
+2024;ARG.17.4_1;Salta;Capital;30;Gasnor;R;Otra
+2024;ARG.17.5_1;Salta;Cerrillos;30;Gasnor;R;Otra
+2024;ARG.17.6_1;Salta;Chicoana;30;Gasnor;R;Otra
+2024;ARG.17.7_1;Salta;General Güemes;30;Gasnor;R;Otra
+2024;ARG.17.8_1;Salta;General José de San Martín;30;Gasnor;R;Otra
+2024;ARG.17.9_1;Salta;Guachipas;30;Gasnor;R;Otra
+2024;ARG.17.10_1;Salta;Iruya;30;Gasnor;R;Otra
+2024;ARG.17.11_1;Salta;La Caldera;29;Gasnor;F;Zona Fría
+2024;ARG.17.12_1;Salta;La Candelaria;30;Gasnor;R;Otra
+2024;ARG.17.13_1;Salta;La Poma;28;Gasnor;P;Zona Patagónica
+2024;ARG.17.14_1;Salta;La Viña;29;Gasnor;F;Zona Fría
+2024;ARG.17.15_1;Salta;Los Andes;28;Gasnor;P;Zona Patagónica
+2024;ARG.17.16_1;Salta;Metán;30;Gasnor;R;Otra
+2024;ARG.17.17_1;Salta;Molinos;29;Gasnor;F;Zona Fría
+2024;ARG.17.18_1;Salta;Orán;30;Gasnor;R;Otra
+2024;ARG.17.19_1;Salta;Rivadavia;30;Gasnor;R;Otra
+2024;ARG.17.20_1;Salta;Rosario de la Frontera;30;Gasnor;R;Otra
+2024;ARG.17.21_1;Salta;Rosario de Lerma;29;Gasnor;F;Zona Fría
+2024;ARG.17.22_1;Salta;San Carlos;29;Gasnor;F;Zona Fría
+2024;ARG.17.23_1;Salta;Santa Victoria;30;Gasnor;R;Otra
+2024;ARG.18.1_1;San Juan;Albardón;18;DGCU;F;Zona Fría
+2024;ARG.18.2_1;San Juan;Angaco;19;DGCU;R;Otra
+2024;ARG.18.3_1;San Juan;Calingasta;18;DGCU;F;Zona Fría
+2024;ARG.18.4_1;San Juan;Capital;18;DGCU;F;Zona Fría
+2024;ARG.18.5_1;San Juan;Caucete;19;DGCU;R;Otra
+2024;ARG.18.6_1;San Juan;Chimbas;18;DGCU;F;Zona Fría
+2024;ARG.18.7_1;San Juan;Iglesia;18;DGCU;F;Zona Fría
+2024;ARG.18.8_1;San Juan;Jáchal;19;DGCU;R;Otra
+2024;ARG.18.9_1;San Juan;Pocito;18;DGCU;F;Zona Fría
+2024;ARG.18.10_1;San Juan;Rawson;18;DGCU;F;Zona Fría
+2024;ARG.18.11_1;San Juan;Rivadavia;18;DGCU;F;Zona Fría
+2024;ARG.18.12_1;San Juan;San Martín;19;DGCU;R;Otra
+2024;ARG.18.13_1;San Juan;Santa Lucía;18;DGCU;F;Zona Fría
+2024;ARG.18.14_1;San Juan;Sarmiento;18;DGCU;F;Zona Fría
+2024;ARG.18.15_1;San Juan;Ullum;18;DGCU;F;Zona Fría
+2024;ARG.18.16_1;San Juan;Valle Fértil;19;DGCU;R;Otra
+2024;ARG.18.17_1;San Juan;Veinticinco de Mayo;19;DGCU;R;Otra
+2024;ARG.18.18_1;San Juan;Zonda;18;DGCU;F;Zona Fría
+2024;ARG.19.1_1;San Luis;Ayacucho;20;DGCU;R;Otra
+2024;ARG.19.2_1;San Luis;Belgrano;21;DGCU;F;Zona Fría
+2024;ARG.19.3_1;San Luis;Chacabuco;21;DGCU;F;Zona Fría
+2024;ARG.19.4_1;San Luis;Coronel Pringles;21;DGCU;F;Zona Fría
+2024;ARG.19.5_1;San Luis;General Pedernera;21;DGCU;F;Zona Fría
+2024;ARG.19.6_1;San Luis;Gobernador Dupuy;21;DGCU;F;Zona Fría
+2024;ARG.19.7_1;San Luis;Junín;21;DGCU;F;Zona Fría
+2024;ARG.19.8_1;San Luis;La Capital;21;DGCU;F;Zona Fría
+2024;ARG.19.9_1;San Luis;Libertador General San Martín;21;DGCU;F;Zona Fría
+2024;ARG.20.1_1;Santa Cruz;Corpen Aike;14;CGS;P;Zona Patagónica
+2024;ARG.20.2_1;Santa Cruz;Deseado;14;CGS;P;Zona Patagónica
+2024;ARG.20.3_1;Santa Cruz;Güer Aike;15;CGS;P;Zona Patagónica
+2024;ARG.20.4_1;Santa Cruz;Lago Argentino;15;CGS;P;Zona Patagónica
+2024;ARG.20.5_1;Santa Cruz;Lago Buenos Aires;14;CGS;P;Zona Patagónica
+2024;ARG.20.6_1;Santa Cruz;Magallanes;14;CGS;P;Zona Patagónica
+2024;ARG.20.7_1;Santa Cruz;Rió Chico;14;CGS;P;Zona Patagónica
+2024;ARG.21.1_1;Santa Fe;Belgrano;26;Litoral;F;Zona Fría
+2024;ARG.21.2_1;Santa Fe;Caseros;26;Litoral;F;Zona Fría
+2024;ARG.21.3_1;Santa Fe;Castellanos;25;Litoral;R;Otra
+2024;ARG.21.4_1;Santa Fe;Constitución;26;Litoral;F;Zona Fría
+2024;ARG.21.5_1;Santa Fe;Garay;25;Litoral;R;Otra
+2024;ARG.21.6_1;Santa Fe;General López;26;Litoral;F;Zona Fría
+2024;ARG.21.7_1;Santa Fe;General Obligado;25;Litoral;R;Otra
+2024;ARG.21.8_1;Santa Fe;Iriondo;26;Litoral;F;Zona Fría
+2024;ARG.21.9_1;Santa Fe;La Capital;25;Litoral;R;Otra
+2024;ARG.21.10_1;Santa Fe;Las Colonias;25;Litoral;R;Otra
+2024;ARG.21.11_1;Santa Fe;Nueve de Julio;25;Litoral;R;Otra
+2024;ARG.21.12_1;Santa Fe;Rosario;26;Litoral;F;Zona Fría
+2024;ARG.21.13_1;Santa Fe;San Cristóbal;25;Litoral;R;Otra
+2024;ARG.21.14_1;Santa Fe;San Javier;25;Litoral;R;Otra
+2024;ARG.21.15_1;Santa Fe;San Jerónimo;25;Litoral;R;Otra
+2024;ARG.21.16_1;Santa Fe;San Justo;25;Litoral;R;Otra
+2024;ARG.21.17_1;Santa Fe;San Lorenzo;26;Litoral;F;Zona Fría
+2024;ARG.21.18_1;Santa Fe;San Martín;26;Litoral;F;Zona Fría
+2024;ARG.21.19_1;Santa Fe;Vera;25;Litoral;R;Otra
+2024;ARG.22.1_1;Santiago del Estero;Aguirre;25;Gasnor;R;Otra
+2024;ARG.22.2_1;Santiago del Estero;Alberdi;25;Gasnor;R;Otra
+2024;ARG.22.3_1;Santiago del Estero;Atamisqui;25;Gasnor;R;Otra
+2024;ARG.22.4_1;Santiago del Estero;Avellaneda;25;Gasnor;R;Otra
+2024;ARG.22.5_1;Santiago del Estero;Banda;25;Gasnor;R;Otra
+2024;ARG.22.6_1;Santiago del Estero;Belgrano;25;Gasnor;R;Otra
+2024;ARG.22.7_1;Santiago del Estero;Capital;25;Gasnor;R;Otra
+2024;ARG.22.8_1;Santiago del Estero;Choya;25;Gasnor;R;Otra
+2024;ARG.22.9_1;Santiago del Estero;Copo;25;Gasnor;R;Otra
+2024;ARG.22.10_1;Santiago del Estero;Figueroa;25;Gasnor;R;Otra
+2024;ARG.22.11_1;Santiago del Estero;General Taboada;25;Gasnor;R;Otra
+2024;ARG.22.12_1;Santiago del Estero;Guasayán;25;Gasnor;R;Otra
+2024;ARG.22.13_1;Santiago del Estero;Jiménez;25;Gasnor;R;Otra
+2024;ARG.22.14_1;Santiago del Estero;Juan Felipe Ibarra;25;Gasnor;R;Otra
+2024;ARG.22.15_1;Santiago del Estero;Loreto;25;Gasnor;R;Otra
+2024;ARG.22.16_1;Santiago del Estero;Mitre;25;Gasnor;R;Otra
+2024;ARG.22.17_1;Santiago del Estero;Moreno;25;Gasnor;R;Otra
+2024;ARG.22.18_1;Santiago del Estero;Ojo de Agua;25;Gasnor;R;Otra
+2024;ARG.22.19_1;Santiago del Estero;Pellegrini;25;Gasnor;R;Otra
+2024;ARG.22.20_1;Santiago del Estero;Quebrachos;25;Gasnor;R;Otra
+2024;ARG.22.21_1;Santiago del Estero;Rió Hondo;25;Gasnor;R;Otra
+2024;ARG.22.22_1;Santiago del Estero;Rivadavia;25;Gasnor;R;Otra
+2024;ARG.22.23_1;Santiago del Estero;Robles;25;Gasnor;R;Otra
+2024;ARG.22.24_1;Santiago del Estero;Salavina;25;Gasnor;R;Otra
+2024;ARG.22.25_1;Santiago del Estero;San Martín;25;Gasnor;R;Otra
+2024;ARG.22.26_1;Santiago del Estero;Sarmiento;25;Gasnor;R;Otra
+2024;ARG.22.27_1;Santiago del Estero;Silípica;25;Gasnor;R;Otra
+2024;ARG.23.1_1;Tierra del Fuego;Rió Grande;16;CGS;P;Zona Patagónica
+2024;ARG.23.2_1;Tierra del Fuego;Ushuaia;16;CGS;P;Zona Patagónica
+2024;ARG.24.1_1;Tucumán;Burruyacú;31;Gasnor;R;Otra
+2024;ARG.24.2_1;Tucumán;Capital;31;Gasnor;R;Otra
+2024;ARG.24.3_1;Tucumán;Chicligasta;31;Gasnor;R;Otra
+2024;ARG.24.4_1;Tucumán;Cruz Alta;31;Gasnor;R;Otra
+2024;ARG.24.5_1;Tucumán;Famaillá;31;Gasnor;R;Otra
+2024;ARG.24.6_1;Tucumán;Graneros;31;Gasnor;R;Otra
+2024;ARG.24.7_1;Tucumán;Juan B. Alberdi;31;Gasnor;R;Otra
+2024;ARG.24.8_1;Tucumán;La Cocha;31;Gasnor;R;Otra
+2024;ARG.24.9_1;Tucumán;Leales;31;Gasnor;R;Otra
+2024;ARG.24.10_1;Tucumán;Lules;31;Gasnor;R;Otra
+2024;ARG.24.11_1;Tucumán;Monteros;31;Gasnor;R;Otra
+2024;ARG.24.12_1;Tucumán;Rió Chico;31;Gasnor;R;Otra
+2024;ARG.24.13_1;Tucumán;Simoca;31;Gasnor;R;Otra
+2024;ARG.24.14_1;Tucumán;Tafí del Valle;31;Gasnor;R;Otra
+2024;ARG.24.15_1;Tucumán;Tafí Viejo;31;Gasnor;R;Otra
+2024;ARG.24.16_1;Tucumán;Trancas;31;Gasnor;R;Otra
+2024;ARG.24.17_1;Tucumán;Yerba Buena;31;Gasnor;R;Otra
