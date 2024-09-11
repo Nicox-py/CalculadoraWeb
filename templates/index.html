@@ -6,11 +6,14 @@
     <title>Calculadora de Consumo de Gas</title>
     <link rel="stylesheet" href="static/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/jszip.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 </head>
 <body>
     <div class="container">
         <h1>Calculadora de Consumo de Gas</h1>
+        <input type="file" id="fileInput" name="archivo">
+        <button id="botonCargar">Cargar archivo</button>
         <form id="consumo-form">
             <label for="anio">Año:</label>
             <select id="anio" name="anio" required>
@@ -88,14 +91,22 @@
             const ciudadesPorProvincia = {};  // Para almacenar las ciudades agrupadas por provincia
             const provinciasUnicas = new Set(); // Para almacenar provincias únicas
 
-            // Leer el archivo Excel desde la URL proporcionada
-            fetch(excelUrl)
-                .then(response => response.arrayBuffer())
-                .then(data => {
-                    const workbook = XLSX.read(data, { type: "array" });
-                    const sheet = workbook.Sheets[workbook.SheetNames[0]]; // Especificar la hoja por su nombre
 
+            // Leer el archivo Excel desde la URL proporcionada
+            // fetch(excelUrl)
+//     .then(response => response.arrayBuffer())
+//     .then(data => {
+            const reader = new FileReader();
+
+            document.getElementById('fileInput').addEventListener('change', function (e) {
+                const file = e.target.files[0];
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                        const data = e.target.result;
+                        const workbook = XLSX.read(data, { type: "binary" });
+                        const sheet = workbook.Sheets[workbook.SheetNames[0]]; // Especificar la hoja por su nombre
                     const rows = XLSX.utils.sheet_to_json(sheet, { header: 1 }); // Convertir a formato JSON
+                    console.log(rows);
 
                     // Suponiendo que la columna C (índice 2) es 'Provincia' y la columna D (índice 3) es 'Ciudad'
                     // Empezamos desde el índice 1 para ignorar la primera fila (encabezados)
@@ -114,6 +125,7 @@
                             }
                         }
                     }
+                    console.log(provinciasUnicas);
 
                     // Rellenar el desplegable de provincias con valores únicos
                     provinciasUnicas.forEach(provincia => {
@@ -122,8 +134,13 @@
                         option.textContent = provincia;
                         provinciaSelect.appendChild(option);
                     });
-                })
-                .catch(error => console.error('Error al cargar el archivo Excel:', error));
+        // })
+                };
+
+                reader.readAsBinaryString(file);
+            });
+
+//     .catch(error => console.error('Error al cargar el archivo Excel:', error));
 
             // Evento al cambiar la selección de la provincia
             provinciaSelect.addEventListener('change', function () {
@@ -133,7 +150,7 @@
                 if (ciudadesPorProvincia[provincia]) {
                     // Rellenar el desplegable de ciudades, ordenadas alfabéticamente
                     Array.from(ciudadesPorProvincia[provincia]).sort().forEach(ciudad => {
-                        const option = document.createElement('option');
+                        const option =document.createElement('option');
                         option.value = ciudad;
                         option.textContent = ciudad;
                         ciudadSelect.appendChild(option);
